@@ -1,5 +1,9 @@
 # 🍩 DonutFlayer - DonutSMP AFK Bot
 
+[![npm](https://img.shields.io/npm/v/donutsmp-afk-bot?logo=npm)](https://www.npmjs.com/package/donutsmp-afk-bot)
+[![GitLab](https://img.shields.io/badge/GitLab-Repository-orange?logo=gitlab)](https://gitlab.com/dreamyfx/DonutFlayer/)
+[![Discord](https://img.shields.io/discord/0?label=Discord&logo=discord&color=5865F2)](https://discord.gg/YcVNSHNCaH)
+
 A lightweight AFK bot for DonutSMP that stays online with minimal resource usage, perfect for running on Raspberry Pi or any low-resource environment.
 
 ## ⚠️ IMPORTANT: Microsoft Authentication Required
