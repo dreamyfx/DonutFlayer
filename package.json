@@ -1,0 +1,27 @@
+{
+  "name": "donutsmp-afk-bot",
+  "version": "1.0.0",
+  "description": "A lightweight AFK bot for DonutSMP that stays online with minimal resource usage",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "start:offline": "node bot.js",
+    "start:microsoft": "node bot.js MyBot microsoft"
+  },
+  "keywords": [
+    "minecraft",
+    "mineflayer",
+    "afk",
+    "bot",
+    "donutsmp",
+    "raspberry-pi"
+  ],
+  "author": "DonutFlayer",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
