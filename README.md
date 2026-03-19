@@ -11,20 +11,18 @@ A lightweight AFK bot for DonutSMP that stays online with minimal resource usage
 
 **DonutSMP requires Microsoft authentication.** You must have a legitimate Microsoft account to connect to the server. Offline mode will not work.
 
-## ✨ Features
+## Features
 
 - **Ultra-lightweight**: Minimal resource usage, perfect for Raspberry Pi
 - **AFK Mode**: No movement, no actions, just stays connected
 - **Auto-reconnect**: Automatically reconnects if disconnected (10-second intervals)
-- **Cross-platform**: Works on Windows, Linux, and macOS
-- **GUI & CLI**: Both graphical and command-line interfaces available
 - **Microsoft Auth**: Full support for Microsoft authentication
 - **Real-time logging**: Console output for all events
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
-- Node.js 14+ (Download from [nodejs.org](https://nodejs.org/))
+- Node.js 22.x+ (Download from [nodejs.org](https://nodejs.org/))
 - A Microsoft account with Minecraft Java Edition (required for DonutSMP)
 - Read the [Microsoft Authentication Guide](MICROSOFT_AUTH_GUIDE.md)
 
@@ -40,7 +38,7 @@ npm install
 node bot.js YourUsername microsoft
 ```
 
-## 📋 Usage
+## Usage
 
 ### Command Line
 ```bash
@@ -50,14 +48,14 @@ node bot.js YourUsername microsoft
 # The bot will connect to donutsmp.net:25565
 ```
 
-## 🔧 Configuration
+## Configuration
 
 The bot connects to:
 - **Server**: `donutsmp.net`
 - **Port**: `25565`
-- **Version**: `1.20.4` (adjustable in code if needed)
+- **Version**: `1.21.4` (adjustable in code if needed)
 
-## 🔐 Microsoft Authentication Setup
+## Microsoft Authentication Setup
 
 **IMPORTANT**: DonutSMP requires Microsoft authentication. Read the [Microsoft Authentication Guide](MICROSOFT_AUTH_GUIDE.md) for detailed setup instructions.
 
@@ -67,7 +65,7 @@ The bot connects to:
 3. Authorize the bot to access your Minecraft account
 4. Bot connects automatically after authentication
 
-## 📝 What the Bot Does
+## What the Bot Does
 
 ✅ **Does:**
 - Connects to DonutSMP using Microsoft authentication
@@ -84,7 +82,7 @@ The bot connects to:
 - Use pathfinding
 - Have anti-AFK features (not needed, just stays connected)
 
-## 📊 System Requirements
+## System Requirements
 
 - **RAM**: ~50MB
 - **CPU**: Minimal (any modern processor)
@@ -98,14 +96,14 @@ Perfect for:
 - Old computers
 - Always-on devices
 
-## 🔒 Security Notes
+## Security Notes
 
 - Never share your Microsoft account credentials
 - Use application-specific passwords if available
 - Keep your Node.js installation updated
-- Run in a secure environment, do not expose to any open orts.
+- Run in a secure environment, do not expose to any open ports.
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Connection Issues
 - Verify your Microsoft account has Minecraft access
@@ -128,7 +126,7 @@ MIT License - Feel free to use and modify as needed.
 
 ## ⚠️ Disclaimer
 
-This bot is designed for legitimate AFK farming on DonutSMP. Use responsibly and follow server rules. The creators are not responsible for any server bans or issues resulting from bot usage.
+This bot is designed for legitimate AFK farming on DonutSMP. Use responsibly and follow server rules. The creators are not responsible for any server bans or issues resulting from bot usage. Read [Updated rules on afking](BAN.md)
 
 ## 🤝 Contributing
 
