@@ -1,4 +1,4 @@
-# 🍩 DonutFlayer - DonutSMP AFK Bot
+# DonutFlayer - DonutSMP AFK Bot
 
 [![npm](https://img.shields.io/npm/v/donutsmp-afk-bot?logo=npm)](https://www.npmjs.com/package/donutsmp-afk-bot)
 [![GitLab](https://img.shields.io/badge/GitLab-Repository-orange?logo=gitlab)](https://gitlab.com/dreamyfx/DonutFlayer/)
@@ -7,7 +7,11 @@
 
 A lightweight AFK bot for DonutSMP that stays online with minimal resource usage, perfect for running on Raspberry Pi or any low-resource environment.
 
-## ⚠️ IMPORTANT: Microsoft Authentication Required
+## ⚠️ Disclaimer
+This bot is designed for legitimate AFK farming on DonutSMP. Use responsibly and follow server rules. The creators are not responsible for any server bans or issues resulting from bot usage.
+** Read [Updated rules on afking](BAN.md)**
+
+## IMPORTANT: Microsoft Authentication Required
 
 **DonutSMP requires Microsoft authentication.** You must have a legitimate Microsoft account to connect to the server. Offline mode will not work.
 
