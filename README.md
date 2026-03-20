@@ -9,7 +9,7 @@ A lightweight AFK bot for DonutSMP that stays online with minimal resource usage
 
 ## ⚠️ Disclaimer
 This bot is designed for legitimate AFK farming on DonutSMP. Use responsibly and follow server rules. The creators are not responsible for any server bans or issues resulting from bot usage.
-** Read [Updated rules on afking](BAN.md)**
+Read [Updated rules on afking](BAN.md)
 
 ## IMPORTANT: Microsoft Authentication Required
 
